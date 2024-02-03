@@ -1,14 +1,51 @@
-#### 1.0.54 (2023-11-27)
+# Preview Markdown Text
 
-##### Bug Fixes
+## Headers
 
-*  Corrected responsive design and scaling on web [Implemented fix for returning back to main menu item after going into sub-pages #26, Added dynamic release notes and journal on both smartphone and web app #25] (fa8beaf9)
+You can use headers to structure your content:
 
-#### 1.0.54 (2023-11-27)
+- # Header 1
+- ## Header 2
+- ### Header 3
+- #### Header 4
+- ##### Header 5
+- ###### Header 6
 
-##### Bug Fixes
+## Emphasis
 
-*  Corrected responsive design and scaling on web [Implemented fix for returning back to main menu item after going into sub-pages #26, Added dynamic release notes and journal on both smartphone and web app #25] (fa8beaf9)
+You can make text *italic* using asterisks or underscores:
+- *Italic text*
+- _Italic text_
 
-#### 1.0.54 (2023-11-27)
+You can make text **bold** using double asterisks or underscores:
+- **Bold text**
+- __Bold text__
+
+## Lists
+
+You can create ordered and unordered lists:
+- Unordered List Item 1
+- Unordered List Item 2
+  - Subitem 1
+  - Subitem 2
+- Unordered List Item 3
+
+1. Ordered List Item 1
+2. Ordered List Item 2
+3. Ordered List Item 3
+
+## Links
+
+You can add links to your text:
+- [Visit OpenAI](https://openai.com)
+- [Visit GitHub](https://github.com)
+
+## Images
+
+You can embed images:
+- ![Alt Text](https://example.com/image.jpg)
+
+## Code
+
+You can include inline code `like this` or code blocks:
 
