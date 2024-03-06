@@ -4,7 +4,7 @@
 
 ##### New Features
 
-* **users:**  Added new user hierarchy managemnet components (23813e36)
+* **users:**  Added new user hierarchy management components (23813e36)
 * **AI:**  Added AI testing components (68a45d61)
 *  Added feed widget (e505299f)
 
