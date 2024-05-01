@@ -1,4 +1,4 @@
-#SmartSaaS Change Log
+# SmartSaaS Change Log
 ---
 
 #### 1.0.593 (2024-05-01)
