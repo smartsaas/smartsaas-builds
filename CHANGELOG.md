@@ -5,21 +5,14 @@
 
 ##### New Features
 
+* **backend:**  Server email functionality (5ccaafab)
 * **campaigns:**  Added campaign features (2fe337fd)
 
-#### 1.0.602 (2024-05-27)
+#### 1.0.602 (2024-05-30)
 
-#### 1.0.600 (2024-05-27)
+##### New Features
 
-#### 1.0.600 (2024-05-25)
-
-#### 1.0.599 (2024-05-24)
-
-#### 1.0.598 (2024-05-23)
-
-#### 1.0.597 (2024-05-09)
-
-#### 1.0.596 (2024-05-09)
+* **campaigns:**  Added campaign features (2fe337fd)
 
 #### 1.0.593 (2024-05-06)
 
