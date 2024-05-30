@@ -1,6 +1,12 @@
 # SmartSaaS Change Log
 ---
 
+#### 1.0.602 (2024-05-30)
+
+##### New Features
+
+* **campaigns:**  Added campaign features (2fe337fd)
+
 #### 1.0.602 (2024-05-27)
 
 #### 1.0.600 (2024-05-27)
