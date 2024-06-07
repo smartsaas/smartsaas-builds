@@ -1,6 +1,17 @@
 # SmartSaaS Change Log
 ---
 
+#### 1.0.602 (2024-06-07)
+
+##### New Features
+
+* **backend:**  Server email functionality (5ccaafab)
+* **campaigns:**  Added campaign features (2fe337fd)
+
+##### Bug Fixes
+
+* **socials:**  Social integration begins (1870ccae)
+
 #### 1.0.602 (2024-06-05)
 
 ##### New Features
