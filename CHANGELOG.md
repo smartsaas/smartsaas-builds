@@ -1,6 +1,18 @@
 # SmartSaaS Change Log
 ---
 
+#### 1.0.602 (2024-06-13)
+
+##### New Features
+
+* **networking:**  Added GMaps and local networks, feat(emails): Corrected and added remaming functionality for Gmail, feat(calendars): Revamped calendar component to be more fluid and consistent, fix(contexts): Increased performance by removing unecessary memoization, fix(UI): added several improvements to user interface and decreased performance overheads, breaking(state): some global state changes were made which may require refresh of app (133d2252)
+* **backend:**  Server email functionality (5ccaafab)
+* **campaigns:**  Added campaign features (2fe337fd)
+
+##### Bug Fixes
+
+* **socials:**  Social integration begins (1870ccae)
+
 #### 1.0.602 (2024-06-07)
 
 ##### New Features
@@ -11,26 +23,6 @@
 ##### Bug Fixes
 
 * **socials:**  Social integration begins (1870ccae)
-
-#### 1.0.602 (2024-06-05)
-
-##### New Features
-
-* **backend:**  Server email functionality (5ccaafab)
-* **campaigns:**  Added campaign features (2fe337fd)
-
-#### 1.0.602 (2024-05-30)
-
-##### New Features
-
-* **backend:**  Server email functionality (5ccaafab)
-* **campaigns:**  Added campaign features (2fe337fd)
-
-#### 1.0.602 (2024-05-30)
-
-##### New Features
-
-* **campaigns:**  Added campaign features (2fe337fd)
 
 #### 1.0.593 (2024-05-06)
 
