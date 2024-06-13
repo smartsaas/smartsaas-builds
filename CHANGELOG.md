@@ -11,18 +11,27 @@
 
 ##### Bug Fixes
 
+* **logs:**  Removed logs (97f13450)
 * **socials:**  Social integration begins (1870ccae)
 
-#### 1.0.602 (2024-06-07)
+#### 1.0.602 (2024-06-13)
 
 ##### New Features
 
+* **networking:** added GMaps and local networks
+* **emails:** corrected and added renaming functionality for Gmail
+* **calendars:** revamped calendar component to be more fluid and consistent
 * **backend:**  Server email functionality (5ccaafab)
 * **campaigns:**  Added campaign features (2fe337fd)
 
 ##### Bug Fixes
 
+* **contexts:** increased performance by removing unnecessary memoization
+* **UI:** added several improvements to user interface and decreased performance overheads
 * **socials:**  Social integration begins (1870ccae)
+
+##### BREAKING
+* **state:** some global state changes were made which may require a refresh of the app (133d2252)
 
 #### 1.0.593 (2024-05-06)
 
