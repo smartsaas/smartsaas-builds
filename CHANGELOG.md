@@ -1,7 +1,7 @@
 # SmartSaaS Change Log
 ---
 
-#### 1.0.602 (2024-06-13)
+#### 1.0.604 (2024-06-13)
 
 ##### New Features
 
@@ -11,6 +11,7 @@
 
 ##### Bug Fixes
 
+* **changelog:**  Revert changes (46044809)
 * **logs:**  Removed logs (97f13450)
 * **socials:**  Social integration begins (1870ccae)
 
