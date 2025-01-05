@@ -1,6 +1,42 @@
 # SmartSaaS Change Log
 ---
 
+#### 1.0.8 (2025-01-05)
+
+##### New Features
+
+* **scheduler:**  Added scheduling and data attachment functionality (0a0aa5aa)
+* **Calendars:** Added adn corrected calendar functionality (d718182f)
+* **products:** Product screen patched and corrected with notes history (e8a6a635)
+* **video tutorials:**  Implemented video tutorials for easy learning of different modules (c6e6c175)
+* **mobile:**  Unified mobile features in preparation for iOS release with in-app subs (9d349efe)
+* **update:**  Release change (29cba283)
+* **ai:**  New AI features appended (14c1868d)
+* **social:**  Added AI features to social feed (f13ebe33)
+* **networking:**  Added GMaps and local networks, feat(emails): Corrected and added remaming functionality for Gmail, feat(calendars): Revamped calendar component to be more fluid and consistent, fix(contexts): Increased performance by removing unecessary memoization, fix(UI): added several improvements to user interface and decreased performance overheads, breaking(state): some global state changes were made which may require refresh of app (133d2252)
+* **backend:**  Server email functionality (5ccaafab)
+* **campaigns:**  Added campaign features (2fe337fd)
+
+##### Bug Fixes
+
+* **drag:**  User components almost solved, just need to correct translation space multiplication (63eecec9)
+* **socials:**
+  *  Social feeds altered and implemented sponsored products (597bcf21)
+  *  Social integration begins (1870ccae)
+* **mobile:**  Corrected changes to mobile app (ef05be25)
+* **major:**  Lots of features corrected or improved (06d8786b)
+* **modal:**  Remove always true var from visible state (778622fb)
+* **Modal:**  Patched TC Modal to fit in with responsivity (a486c8e0)
+* **additional:**  Other features added (84286e3b)
+* **changelog:**  Revert changes (46044809)
+* **logs:**  Removed logs (97f13450)
+
+##### Other Changes
+
+* //github.com/smartsaas/smartsaas-resolver into Expo-50 (43bd932c)
+* //github.com/smartsaas/smartsaas-resolver into Expo-50 (7a5c9d6f)
+* **modal:**  TC modal patched responsivity (33f9fca8)
+
 #### 1.0.621 (2024-12-19)
 
 ##### New Features
