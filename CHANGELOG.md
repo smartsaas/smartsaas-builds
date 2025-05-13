@@ -5,6 +5,59 @@
 
 ##### New Features
 
+* **misc:**  Changes (138dcc87)
+* **payments:** Various payment fixes (df937566)
+* **staging:** Implemented staging site to speed-up development (c616fd31)
+* **various:**  Various fixes, changes and features (e800882c)
+* **company-switch:**  Added Company switch functionality (5e9242ce)
+* **calendars:**  Added SmartSaaS calendar functionality and misc fixes on web (5bce7489)
+* **users:**  User screen rectified and misc bugs and issues solved (c14af154)
+* **flows:**  Added additonal flows (fa03afbc)
+* **calls:** Begin implementing call features for AI based calling (9080a448)
+* **meetings:**  Tons of new features added with AI functionality including meetings transcription, calendar management and social media creation (0ef59037)
+* **Backend:**  Backend QR based routes added (12f57c84)
+* **actions:**
+  *  Added actions and actoin editor with fixes for new QR code actions and adjustments of visuals (f4ad0e8b)
+  * Chain actions and calendar QR bookings implemented (7564d311)
+* **scheduler:**  Added scheduling and data attachment functionality (0a0aa5aa)
+* **Calendars:** Added adn corrected calendar functionality (d718182f)
+* **products:** Product screen patched and corrected with notes history (e8a6a635)
+* **video tutorials:**  Implemented video tutorials for easy learning of different modules (c6e6c175)
+* **mobile:**  Unified mobile features in preparation for iOS release with in-app subs (9d349efe)
+* **update:**  Release change (29cba283)
+* **ai:**  New AI features appended (14c1868d)
+* **social:**  Added AI features to social feed (f13ebe33)
+* **networking:**  Added GMaps and local networks, feat(emails): Corrected and added remaming functionality for Gmail, feat(calendars): Revamped calendar component to be more fluid and consistent, fix(contexts): Increased performance by removing unecessary memoization, fix(UI): added several improvements to user interface and decreased performance overheads, breaking(state): some global state changes were made which may require refresh of app (133d2252)
+* **backend:**  Server email functionality (5ccaafab)
+* **campaigns:**  Added campaign features (2fe337fd)
+
+##### Bug Fixes
+
+* **second-menu:**  Remove unecessary second menu rendering (1ed01188)
+* **misc:**  Misc fixes (7471343e)
+* **actions:**  Action handler visual issues  rectified (bc82bf56)
+* **drag:**  User components almost solved, just need to correct translation space multiplication (63eecec9)
+* **socials:**
+  *  Social feeds altered and implemented sponsored products (597bcf21)
+  *  Social integration begins (1870ccae)
+* **mobile:**  Corrected changes to mobile app (ef05be25)
+* **major:**  Lots of features corrected or improved (06d8786b)
+* **modal:**  Remove always true var from visible state (778622fb)
+* **Modal:**  Patched TC Modal to fit in with responsivity (a486c8e0)
+* **additional:**  Other features added (84286e3b)
+* **changelog:**  Revert changes (46044809)
+* **logs:**  Removed logs (97f13450)
+
+##### Other Changes
+
+* //github.com/smartsaas/smartsaas-resolver into Expo-50 (43bd932c)
+* //github.com/smartsaas/smartsaas-resolver into Expo-50 (7a5c9d6f)
+* **modal:**  TC modal patched responsivity (33f9fca8)
+
+#### 1.0.1003 (2025-05-13)
+
+##### New Features
+
 * **payments:** Various payment fixes (df937566)
 * **staging:** Implemented staging site to speed-up development (c616fd31)
 * **various:**  Various fixes, changes and features (e800882c)
