@@ -1,6 +1,114 @@
 # SmartSaaS Change Log
 ---
 
+#### 1.0.3101 (2025-09-03)
+
+##### New Features
+
+* **visuals:**
+  *  New changes made to visual uphaul (fa86cb5d)
+  *   Changes to menu and layout (a370acef)
+* **whatsapp:**  Added whatsapp webhooks (159924e4)
+* **community:**  Added community screens (2f5f5759)
+* **doc-editor:**  Document editor upgraded (3f799e5c)
+* **schema:**  Corrected schema handling (a645487c)
+* **service-worker:**  Added service-worker to auto update packages (4e670f09)
+* **bubbles:** New bubble screen to show links between data (b09449b6)
+* **AI:**
+  *  Added multiple AI features (de677c73)
+  *  Tying in AI features from back-end (6f0b5f27)
+* **CRM:**
+  *  Added new product and CRM screens (b1ed44a1)
+  *  Added new product and CRM screens (7ccc0c35)
+* **upload:**
+  *  New changes added to upload supporting xlsx, xls (f5ac45fa)
+  *  New changes added to upload supporting xlsx, xls (14f1e0a3)
+* **stats:**  More stat geatures added (a738b3c4)
+* **integrations:**
+  *  Added integration components (f6f9ef9f)
+  * Added social integrations, corrected CSS serving (6c4d6c9d)
+* **version:**  Version change implemented (175babfb)
+* **slack:**  Added slack integration (4ee9f49b)
+* **web:**  Corrected and replaced web forms (07ef959a)
+* **affiliates:**  Added affiliate tracking and payouts (1e253e87)
+* **mobile:**
+  *  Corrections to billing and metered data retrieval (4e086ec0)
+  *  Unified mobile features in preparation for iOS release with in-app subs (9d349efe)
+* **data-move:** Added move data feature and Sinhala language (a7c63455)
+* **staging:**
+  * corrected staging changes (9f52046f)
+  * Implemented staging site to speed-up development (c616fd31)
+* **misc:**  Changes (138dcc87)
+* **payments:** Various payment fixes (df937566)
+* **various:**  Various fixes, changes and features (e800882c)
+* **company-switch:**  Added Company switch functionality (5e9242ce)
+* **calendars:**  Added SmartSaaS calendar functionality and misc fixes on web (5bce7489)
+* **users:**  User screen rectified and misc bugs and issues solved (c14af154)
+* **flows:**  Added additonal flows (fa03afbc)
+* **calls:** Begin implementing call features for AI based calling (9080a448)
+* **meetings:**  Tons of new features added with AI functionality including meetings transcription, calendar management and social media creation (0ef59037)
+* **Backend:**  Backend QR based routes added (12f57c84)
+* **actions:**
+  *  Added actions and actoin editor with fixes for new QR code actions and adjustments of visuals (f4ad0e8b)
+  * Chain actions and calendar QR bookings implemented (7564d311)
+* **scheduler:**  Added scheduling and data attachment functionality (0a0aa5aa)
+* **Calendars:** Added adn corrected calendar functionality (d718182f)
+* **products:** Product screen patched and corrected with notes history (e8a6a635)
+* **video tutorials:**  Implemented video tutorials for easy learning of different modules (c6e6c175)
+* **update:**  Release change (29cba283)
+* **ai:**  New AI features appended (14c1868d)
+* **social:**  Added AI features to social feed (f13ebe33)
+* **networking:**  Added GMaps and local networks, feat(emails): Corrected and added remaming functionality for Gmail, feat(calendars): Revamped calendar component to be more fluid and consistent, fix(contexts): Increased performance by removing unecessary memoization, fix(UI): added several improvements to user interface and decreased performance overheads, breaking(state): some global state changes were made which may require refresh of app (133d2252)
+* **backend:**  Server email functionality (5ccaafab)
+* **campaigns:**  Added campaign features (2fe337fd)
+
+##### Bug Fixes
+
+* **ai-help:**  AI Help modal fixed (323e9b41)
+* **Linking:**  Linking Configuration (cf65b64f)
+* **projects:**  Corrected bad rendering in projects (6e59d401)
+* **editor:**  Editor changes made (f91c7e78)
+* **env-vars:**  Corrected model (3589cc33)
+* **emails:**  Corrected email editor (585a1376)
+* **performance:**  Enhanced performance by seperating auth stack from dash stack (8b3f2e46)
+* **css:**
+  * Remove global transition values that were causing slow-down (6f1a3d1a)
+  *  Added new CSS for data grid (7078fad9)
+* **datahandler:**  Corrected drop downs (430982a4)
+* **visuals and editor:**  Added new editor and visual fixes (669d2c14)
+* **web-output:**  Corrected web output (9a15ab67)
+* **output:**  Changed web output back to dist (51547c24)
+* **CSS:**  CSS corrected (7ad4903b)
+* **menu:**  Visual changes for menu and messaging implemented, emails connected and material UI applied to overall (a7cb626b)
+* **layout:**  New layout fixes and minor version update (f1c74790)
+* **remove-paper:**  Completely removed react-native-paper and made changes to css serve (45e5c6d5)
+* **rn-paper:**  Remove UI library r-n-paper (7ae79803)
+* **visuals:**  Corrected some visual aspects (6892cba8)
+* **stripe:**  Crash on iPad and tablets due to outdated stripe dependency corrected (01ee949b)
+* **visual:**  Visual changes applied for Foldable Android devices (84397b25)
+* **MessageUserList:**  Code correction and case correction (1d67e992)
+* **remove:**  Removed MessageUserList (e485ec09)
+* **second-menu:**  Remove unecessary second menu rendering (1ed01188)
+* **misc:**  Misc fixes (7471343e)
+* **actions:**  Action handler visual issues  rectified (bc82bf56)
+* **drag:**  User components almost solved, just need to correct translation space multiplication (63eecec9)
+* **socials:**
+  *  Social feeds altered and implemented sponsored products (597bcf21)
+  *  Social integration begins (1870ccae)
+* **mobile:**  Corrected changes to mobile app (ef05be25)
+* **major:**  Lots of features corrected or improved (06d8786b)
+* **modal:**  Remove always true var from visible state (778622fb)
+* **Modal:**  Patched TC Modal to fit in with responsivity (a486c8e0)
+* **additional:**  Other features added (84286e3b)
+* **changelog:**  Revert changes (46044809)
+* **logs:**  Removed logs (97f13450)
+
+##### Other Changes
+
+* //github.com/smartsaas/smartsaas-resolver into Expo-50 (43bd932c)
+* //github.com/smartsaas/smartsaas-resolver into Expo-50 (7a5c9d6f)
+* **modal:**  TC modal patched responsivity (33f9fca8)
+
 #### 1.0.1003 (2025-05-13)
 
 ##### New Features
